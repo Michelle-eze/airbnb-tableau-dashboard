@@ -1,5 +1,3 @@
-# airbnb-tableau-dashboard
-Airbnb listings tableau project
 # Airbnb Listings Dashboard – 2016 Dataset (Tableau)
 
 ## 📌 Project Overview
