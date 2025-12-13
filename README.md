@@ -77,8 +77,5 @@ Here are a few observations based on the 2016 dataset (update with your actual f
 
 [![Airbnb Dashboard Overview](images/overview-dashboard.png)](https://public.tableau.com/app/profile/michelle.ezeudo/viz/AirBnBFullProject_17650678715310/Dashboard1)
 
-*Additional views:*  
-- `images/price-distribution.png` — Price distribution and comparison  
-- `images/map-view.png` — Geographic heatmap of listings  
 
 Click the image to open the live dashboard.
