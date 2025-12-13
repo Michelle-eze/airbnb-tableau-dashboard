@@ -56,21 +56,27 @@ The dashboard includes several key views (tabs/sheets) and filters which enable 
    - Distribution of availability over 365 days  
    - Correlation between number of reviews, availability and listing types  
 
-Feel free to rename or reorganise based on your actual dashboard structure.
+--! Feel free to rename or reorganise based on your actual dashboard structure -->
 
 ---
 
-## 🔍 Key Insights & Observations  
+## 🔍 Key Insights & Findings
 
-Here are a few observations based on the 2016 dataset (update with your actual findings):
+Analysis of the 2016 Airbnb listings dashboard reveals several clear patterns:
 
-- Listings in central / high-demand neighbourhoods tend to have **higher average nightly price** and **higher review counts**, indicating high demand and turnover.  
-- Entire home/apartment listings are generally priced higher than private rooms.  
-- Some areas show **high availability but low reviews**, suggesting oversupply or lower demand.  
-- A subset of listings combine **low price + high availability + high reviews** — potential sweet spots for travellers or budget-conscious renters.
+### 1. Nightly price rises sharply with bedroom count  
+Average price increases non-linearly as bedroom count rises. One-bedroom listings average under $100 per night, while five- and six-bedroom properties command a much higher premium (approximately $450–$585), indicating strong demand for larger listings.
 
-*(Replace or expand with real insights derived from your dashboard.)*
+### 2. Listing supply is concentrated at the lower end  
+The majority of listings are one-bedroom properties, with supply dropping sharply as bedroom count increases. Larger homes are comparatively scarce, which helps explain their higher average prices.
 
+### 3. Location strongly influences pricing  
+Average nightly prices vary significantly by ZIP code. Certain areas consistently command higher prices, while others cluster at lower ranges, highlighting the role of neighbourhood desirability in pricing dynamics.
+
+### 4. Revenue shows seasonal growth patterns  
+Weekly revenue increases early in the year, stabilises mid-year, and rises again toward year-end. This pattern suggests seasonal demand effects rather than random fluctuations, with steady booking activity throughout the year.
+
+These findings illustrate how property size, location, and seasonality interact to shape pricing and revenue patterns in the Airbnb market.
 ---
 
 ## 📷 Dashboard Preview (Static Screenshots)
